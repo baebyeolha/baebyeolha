@@ -1,5 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)[![TypingSVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+byeolha's+GitHub!👋)](https://git.io/typing-svg)
 
+배려심이 깊고, 솔직한 편이며
+별처럼 빛나는 아이디어로 
+하나부터 열까지 문제를 해결해나가는 배별하입니다.
+
+- Final Vocabulary
+    - 솔직함
+    - 배려
+
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:baestar0207@gmail.com">
