@@ -23,6 +23,14 @@
 
 </div><br>
 
+<h3 align="left">  :memo: Profile :memo: </h3>
+
+<div align="left" style="text-align:center">
+
+  [![Velog's GitHub stats](https://baebyeolha.github.io/)
+  
+</div>
+
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Frontend -->
