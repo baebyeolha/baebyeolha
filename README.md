@@ -13,6 +13,11 @@
 - Major : software (2022.03 -)
 - https://baebyeolha.github.io/
 
+## Project 
+분리수거 안내 키오스크 구현, Python (2022.04 - 2022.06)
+밴드 동아리 동방 예약앱 구현, Kotlin (2023.09 - 2022.12)
+
+
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:baestar0207@gmail.com">
