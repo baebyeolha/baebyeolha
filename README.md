@@ -11,6 +11,7 @@
     - 배려
 
 - Major : software (2022.03 -)
+- https://baebyeolha.github.io/
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
@@ -23,13 +24,6 @@
 
 </div><br>
 
-<h3 align="left">  :memo: Profile :memo: </h3>
-
-<div align="left" style="text-align:center">
-
-  (https://baebyeolha.github.io/)
-  
-</div>
 
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
