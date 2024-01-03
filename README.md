@@ -27,7 +27,7 @@
 
 <div align="left" style="text-align:center">
 
-  [![Velog's GitHub stats](https://baebyeolha.github.io/)
+  [![Velog's GitHub stats](https://baebyeolha.github.io/)]
   
 </div>
 
