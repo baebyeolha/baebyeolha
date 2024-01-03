@@ -8,7 +8,7 @@
     - 솔직함
     - 배려
 
-![poster](./profile.png)
+![poster](./profile.jpg)
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
