@@ -27,7 +27,7 @@
 
 <div align="left" style="text-align:center">
 
-  [!(https://baebyeolha.github.io/)]
+  (https://baebyeolha.github.io/)
   
 </div>
 
