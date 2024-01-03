@@ -8,6 +8,8 @@
     - 솔직함
     - 배려
 
+![poster](./profile.png)
+
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:baestar0207@gmail.com">
