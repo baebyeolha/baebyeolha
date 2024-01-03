@@ -19,8 +19,6 @@
 
 </div><br>
 
-[![bi-sz's GitHub stats](https://github-readme-stats.vercel.app/api?username=baebyeolha&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/baebyeolha/github-readme-stats)
-
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Frontend -->
