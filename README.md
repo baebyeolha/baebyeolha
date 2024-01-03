@@ -10,6 +10,8 @@
     - 솔직함
     - 배려
 
+- Major : software (2022.03 -)
+
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:baestar0207@gmail.com">
