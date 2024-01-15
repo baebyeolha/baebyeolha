@@ -11,7 +11,7 @@
     - 배려
 
 - Major : software (2022.03 -)
-  <iframe src="https://baebyeolha.github.io/"></iframe>
+  <iframe src="https://baebyeolha.github.io"></iframe>
 
 ## Project 
 분리수거 안내 키오스크 구현, Python (2022.04 - 2022.06) <br>
