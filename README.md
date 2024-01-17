@@ -5,7 +5,8 @@
 하나부터 열까지 문제를 해결해나가는 배별하입니다.
 
 <picture>
-  <source srcset="./profile.avif" type="image/avif"  />
+  <source srcset="./profile.avif" type="image/avif"/>
+  <img src="profile.jpg" width="200" height="200" alt="My profile" />
 </picture>
 
 
