@@ -4,7 +4,7 @@
 별처럼 빛나는 아이디어로<br> 
 하나부터 열까지 문제를 해결해나가는 배별하입니다.
 
-<img src="./profile.jpg" width="200" height="200"/>
+<img src="profile.avif" width="200" height="200"/>
 
 - Final Vocabulary
     - 솔직함
