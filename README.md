@@ -95,7 +95,7 @@
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"> </br>
 ```2024.04.11 ~ 2024.04.16``` 별하네 농장 -상점에서 선택한 씨앗이 잘 자라도록 기르는 타이쿤 게임 (6명)  </br>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> </br>
-```2024.10 ~ 2024.12``` 서초구청 민원 챗봇(3명) </br> <a href=https://github.com/Seocho-gu-Chatbot>repository</a>
+```2024.10 ~ 2024.12``` 서초구청 민원 챗봇(3명) <a href=https://github.com/Seocho-gu-Chatbot>repository</a>  </br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white">
