@@ -1,40 +1,64 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)[![TypingSVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+byeolha's+GitHub!👋)](https://git.io/typing-svg)
 
-배려심이 깊고, 솔직한 편이며<br>
-별처럼 빛나는 아이디어로<br> 
-하나부터 열까지 문제를 해결해나가는 배별하입니다.
-
-<picture>
-  <source srcset="./profile.avif" type="image/avif"/>
-  <img src="profile.jpg" width="200" height="200" alt="My profile" />
-</picture>
 
 
-- Final Vocabulary
-    - 솔직함
-    - 배려
+ 
+## Education
+- Major : software (2022.03 -) <a href="https://baebyeolha.github.io/">mypage</a>
 
-- Major : software (2022.03 -)
-  <a href="https://baebyeolha.github.io/">mypage</a>
+## Experience
+```2023.12 ~ 2024.06``` 신한투자증권 프로 디지털 아카데미 3기 수료 </br>
+```2024.12 ~ ``` (주)오드레몬오리진 개발실 실습생 </br>
+
+
+## Award 
+```2022.06``` 한국항공대학교 ICT 창업메이커톤 우수상 
+```2024.02``` 신한투자증권 프로 디지털 아카데미 프론트 프로젝트 최우수상
 
 ## Project 
-분리수거 안내 키오스크 구현, Python (2022.04 - 2022.06) <br>
-밴드 동아리 동방 예약앱 구현, Kotlin (2023.09 - 2022.12)
+```2022.04 ~ 2022.06```  분리수거 안내 키오스크 (2명)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+```2024.03 ~ 2024.04``` 주린이의 모험 - 주식을 처음 하는 사람들을 위한  모의 투자 주식 교육 게임 서비스 (5명)
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"> 
+```2024.05 ~ 2024.06``` ToFin - 참여형 금융 SNS (MSA 프로젝트) (6명)
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"> 
+<img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> 
+<img src="https://img.shields.io/badge/Apache Kafka-%3333333.svg?style=for-the-badge&logo=Apache Kafka&logoColor=white"> 
 
 
-## 📞 Contact 📞
-<div style="display:flex; flex-direction:row;">
-    <a href="mailto:baestar0207@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-    <a href="https://www.instagram.com/2eb7ve/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
-    </a>
 
-</div><br>
+## Mini Project 
+```2023.09 ~ 2023.12``` 밴드 동아리 동방 예약 어플 (3명)
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
+<img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=Firebase&logoColor=white">
 
 
-## 🔨 Once I've used 🔨
+```2024.02.19 ~ 2024.02.29``` What's your etf? - 나만의 etf 포트폴리오를 만들 수 있는 웹서비스(4명) 
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
+```2024.04.11 ~ 2024.04.16``` 별하네 농장 -상점에서 선택한 씨앗이 잘 자라도록 기르는 타이쿤 게임 (6명) 
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
+```2024.10 ~ 2024.12``` 서초구청 민원 챗봇(3명)
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+<img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
+```2024.11.14 ~ 2024.12.03``` RAG를 활용한 챗봇(4명) <a href= https://github.com/pyohm/TeamA_Chatbot>repository</a>
+
+
+
+## 🔨 Tech Stack 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Frontend -->
     <p><strong>Frontend</strong></p>
