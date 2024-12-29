@@ -18,7 +18,7 @@
 ## Project 
 ```2022.04 ~ 2022.06```  분리수거 안내 키오스크 (2명) </br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> </br>
-```2024.03 ~ 2024.04``` 주린이의 모험 - 주식을 처음 하는 사람들을 위한  모의 투자 주식 교육 게임 서비스 (5명) 
+```2024.03 ~ 2024.04``` 주린이의 모험 - 주식을 처음 하는 사람들을 위한  모의 투자 주식 교육 게임 서비스 (5명)   </br>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
@@ -46,7 +46,7 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"> </br>
-```2024.04.11 ~ 2024.04.16``` 별하네 농장 -상점에서 선택한 씨앗이 잘 자라도록 기르는 타이쿤 게임 (6명) 
+```2024.04.11 ~ 2024.04.16``` 별하네 농장 -상점에서 선택한 씨앗이 잘 자라도록 기르는 타이쿤 게임 (6명)  </br>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> </br>
 ```2024.10 ~ 2024.12``` 서초구청 민원 챗봇(3명) </br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
@@ -73,7 +73,6 @@
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-        
     </div>
     <!-- Backend -->
     <p><strong>Backend</strong></p>
@@ -87,7 +86,6 @@
         <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
         <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
-        
     </div>
     <!-- Server -->
     <p><strong>Server</strong></p>
