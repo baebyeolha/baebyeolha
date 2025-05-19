@@ -58,7 +58,7 @@
 </div><br>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baebyeolha&langs_count=8)](https://github.com/baebyeolha/github-readme-stats)
+
 
 
 
