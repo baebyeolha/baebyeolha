@@ -5,7 +5,7 @@
  
 ## Education
 - Major : software (2022.03 -)
-- <a href="https://baebyeolha.github.io/](https://dynamic-sousaphone-4ae.notion.site/226b647f42a4807ca9bdd2e17bcac822?pvs=74">mypage</a>
+- <a href="https://dynamic-sousaphone-4ae.notion.site/226b647f42a4807ca9bdd2e17bcac822?pvs=74">mypage</a>
 
 ## Experience
 ```2023.12 ~ 2024.06``` 신한투자증권 프로 디지털 아카데미 3기 수료 </br>
