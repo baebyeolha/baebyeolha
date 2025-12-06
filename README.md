@@ -3,24 +3,24 @@
 
 
  
-#### 🏫 Education
+### 🏫 Education
 - Major : software (2022.03 -)
 - <a href="https://dynamic-sousaphone-4ae.notion.site/226b647f42a4807ca9bdd2e17bcac822?pvs=74">mypage</a>
 - <a href="https://byeolhabae.tistory.com/">myblog</a>
 
-#### 🖥️ Experience
+### 🖥️ Experience
 ```2023.12 ~ 2024.06``` 신한투자증권 프로 디지털 아카데미 3기 수료 </br>
 ```2024.12 ~ ``` (주)오드레몬오리진 개발실 실습생 </br>
 ```2025.09 ~ 2025.10 ``` 오픈소스 컨트리뷰션 Git 활용 및 Yocto 프로젝트팀 멘티</br>
 
 
-#### 🏆 Award 
+### 🏆 Award 
 ```2022.06``` 한국항공대학교 ICT 창업메이커톤 우수상  </br>
 ```2024.02``` 신한투자증권 프로 디지털 아카데미 프론트 프로젝트 최우수상 </br>
 ```2025.06``` 한국항공대학교 산학협력프로젝트 3등 </br>
 ```2025.12``` 한국항공대학교 TOCIT 대상
 
-#### 🔨 Tech Stack
+### 🔨 Tech Stack
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Frontend -->
     <p><strong>Programming language</strong></p>
