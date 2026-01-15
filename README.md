@@ -5,12 +5,11 @@
  
 ### 🏫 Education
 - Major : software (2022.03 -)
-- <a href="https://dynamic-sousaphone-4ae.notion.site/226b647f42a4807ca9bdd2e17bcac822?pvs=74">mypage</a>
 - <a href="https://byeolhabae.tistory.com/">myblog</a>
 
 ### 🖥️ Experience
 ```2023.12 ~ 2024.06``` 신한투자증권 프로 디지털 아카데미 3기 수료 </br>
-```2024.12 ~ ``` (주)오드레몬오리진 개발실 실습생 </br>
+```2024.12 ~ `2025.02` (주)오드레몬오리진 개발실 실습생 </br>
 ```2025.09 ~ 2025.10 ``` 오픈소스 컨트리뷰션 Git 활용 및 Yocto 프로젝트팀 멘티</br>
 
 
@@ -106,7 +105,7 @@
 <img src="https://img.shields.io/badge/php-777BB4?style=flat&logo=php&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"></br>
-```2024.11.14 ~ 2024.12.03``` RAG를 활용한 챗봇(4명) <a href= https://github.com/pyohm/TeamA_Chatbot>repository</a> </br>
+```2024.11.14 ~ 2024.12.03``` RAG를 활용한 챗봇(4명) </br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
 
 
