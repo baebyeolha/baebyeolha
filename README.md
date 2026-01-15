@@ -9,7 +9,7 @@
 
 ### 🖥️ Experience
 ```2023.12 ~ 2024.06``` 신한투자증권 프로 디지털 아카데미 3기 수료 </br>
-```2024.12 ~ `2025.02` (주)오드레몬오리진 개발실 실습생 </br>
+```2024.12 ~ 2025.02``` (주)오드레몬오리진 개발실 실습생 </br>
 ```2025.09 ~ 2025.10 ``` 오픈소스 컨트리뷰션 Git 활용 및 Yocto 프로젝트팀 멘티</br>
 
 
@@ -99,7 +99,7 @@
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"> </br>
 ```2024.04.11 ~ 2024.04.16``` 별하네 농장 -상점에서 선택한 씨앗이 잘 자라도록 기르는 타이쿤 게임 (6명)  </br>
 <img src="https://img.shields.io/badge/java-007396?style=flat&logo=OpenJDK&logoColor=white"> </br>
-```2024.10 ~ 2024.12``` 서초구청 민원 챗봇(3명) <a href=https://github.com/Seocho-gu-Chatbot>repository</a>  </br>
+```2024.10 ~ 2024.12``` 서초구청 민원 챗봇(3명)   </br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/php-777BB4?style=flat&logo=php&logoColor=white">
